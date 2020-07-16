@@ -54,6 +54,9 @@ namespace LendingLibrary
             UserInterface();
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
         public static void UserInterface()
         { 
 
@@ -133,6 +136,9 @@ namespace LendingLibrary
 
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
         static void LoadBooks()
         {
 
@@ -148,10 +154,10 @@ namespace LendingLibrary
             Dictionary<int, Book> books = new Dictionary<int, Book>();
             Console.WriteLine("Which book would you like to borrow");
             int counter = 1;
-            foreach (var item in Library)
+            foreach (Book book in Library)
             {
-                books.Add(counter, item);
-                Console.WriteLine($"{counter++}. {item.Title} - {item.Author.FirstName} {item.Author.LastName}");
+                books.Add(counter, book);
+                Console.WriteLine($"{counter++}. {book.Title} - {book.Author.FirstName} {book.Author.LastName}");
 
             }
 
@@ -162,15 +168,18 @@ namespace LendingLibrary
             BookBag.Add(borrowedBook);
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
         static void ReturnBook()
         {
             Dictionary<int, Book> books = new Dictionary<int, Book>();
             Console.WriteLine("Which book would you like to return");
             int counter = 1;
-            foreach (var item in BookBag)
+            foreach (Book book in BookBag)
             {
-                books.Add(counter, item);
-                Console.WriteLine($"{counter++}. {item.Title} - {item.Author.FirstName} {item.Author.LastName}");
+                books.Add(counter, book);
+                Console.WriteLine($"{counter++}. {book.Title} - {book.Author.FirstName} {book.Author.LastName}");
 
             }
 
@@ -181,6 +190,14 @@ namespace LendingLibrary
             Library.Add(returnedBook);
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="title"></param>
+        /// <param name="firstName"></param>
+        /// <param name="lastName"></param>
+        /// <param name="numberOfPages"></param>
+        /// <param name="genre"></param>
         static void AddABook(string title, string firstName, string lastName, int numberOfPages, Genres genre)
         {
             Book book = new Book()
