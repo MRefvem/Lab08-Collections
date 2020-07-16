@@ -17,7 +17,7 @@ namespace LendingLibrary
             Library.Add(new Book()
             {
                 Title = "The Lord of the Flies",
-                Author = { FirstName = "William", LastName = "Golding" },
+                Author = { FirstName = "William", LastName = "Goldding" },
                 NumberOfPages = 200,
                 Genre = Genres.Adventure
             });
