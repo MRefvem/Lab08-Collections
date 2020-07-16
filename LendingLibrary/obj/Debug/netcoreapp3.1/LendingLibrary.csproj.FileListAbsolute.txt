@@ -1,0 +1,13 @@
+C:\Users\mkref\source\repos\Lab08-Collections\LendingLibrary\bin\Debug\netcoreapp3.1\LendingLibrary.exe
+C:\Users\mkref\source\repos\Lab08-Collections\LendingLibrary\bin\Debug\netcoreapp3.1\LendingLibrary.deps.json
+C:\Users\mkref\source\repos\Lab08-Collections\LendingLibrary\bin\Debug\netcoreapp3.1\LendingLibrary.runtimeconfig.json
+C:\Users\mkref\source\repos\Lab08-Collections\LendingLibrary\bin\Debug\netcoreapp3.1\LendingLibrary.runtimeconfig.dev.json
+C:\Users\mkref\source\repos\Lab08-Collections\LendingLibrary\bin\Debug\netcoreapp3.1\LendingLibrary.dll
+C:\Users\mkref\source\repos\Lab08-Collections\LendingLibrary\bin\Debug\netcoreapp3.1\LendingLibrary.pdb
+C:\Users\mkref\source\repos\Lab08-Collections\LendingLibrary\obj\Debug\netcoreapp3.1\LendingLibrary.csprojAssemblyReference.cache
+C:\Users\mkref\source\repos\Lab08-Collections\LendingLibrary\obj\Debug\netcoreapp3.1\LendingLibrary.AssemblyInfoInputs.cache
+C:\Users\mkref\source\repos\Lab08-Collections\LendingLibrary\obj\Debug\netcoreapp3.1\LendingLibrary.AssemblyInfo.cs
+C:\Users\mkref\source\repos\Lab08-Collections\LendingLibrary\obj\Debug\netcoreapp3.1\LendingLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mkref\source\repos\Lab08-Collections\LendingLibrary\obj\Debug\netcoreapp3.1\LendingLibrary.dll
+C:\Users\mkref\source\repos\Lab08-Collections\LendingLibrary\obj\Debug\netcoreapp3.1\LendingLibrary.pdb
+C:\Users\mkref\source\repos\Lab08-Collections\LendingLibrary\obj\Debug\netcoreapp3.1\LendingLibrary.genruntimeconfig.cache
