@@ -32,7 +32,7 @@ Then select and open ```LendingLibrary.sln```
 ### Visuals
 
 #### Application Start
-![Image 1](assets/LendingLibrary.png)
+![Image 1](LendingLibrary/assets/LendingLibrary.png)
 #### Using the Application
 ![Image 1](https://via.placeholder.com/750x500)
 #### Application End
