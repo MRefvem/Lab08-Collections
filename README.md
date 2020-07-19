@@ -23,7 +23,7 @@ Select ```File``` -> ```Open``` -> ```Project/Solution```
 
 Next navigate to the location you cloned the Repository.
 
-Double click on the ```Lab04-Collections```
+Double click on the ```Lab08-Collections```
 
 Then select and open ```LendingLibrary.sln```
 
@@ -32,16 +32,21 @@ Then select and open ```LendingLibrary.sln```
 ### Visuals
 
 #### Application Start
-![Image 1](LendingLibrary/assets/LendingLibrary.png)
+![Application Start](LendingLibrary/assets/LendingLibrary.png)
+![Application Start 2](LendingLibrary/assets/ApplicationStart2.png)
 #### Using the Application
-![Image 1](https://via.placeholder.com/750x500)
+![Current Books](LendingLibrary/assets/CurrentBooks.png)
+![Adding a Book](LendingLibrary/assets/AddingABook.png)
+![Borrowing a Book](LendingLibrary/assets/BorrowingABook.png)
+![Viewing Book Bag](LendingLibrary/assets/ViewingBookBag.png)
+![Returning a Book](LendingLibrary/assets/ReturningABook.png)
 #### Application End
-![Image 1](https://via.placeholder.com/750x500)
+![Application End](LendingLibrary/assets/ApplicationEnd.png)
 
 ---
 
 ### Change Log
 ***[The change log will list any changes made to the code base. This includes any changes from TA/Instructor feedback]***  
-1.3: *Added summary comments to the methods* - 8 Nov 2010  
-1.2: *Changed variable names to follow proper convention* - 6 Nov 2010  
+1.3: *README updated* - 18 Jul 2020  
+1.2: *Feature tasks complete* - 18 Jul 2020  
 1.1: *initial commit* - 15 Jul 2020  
